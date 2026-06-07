@@ -11,7 +11,7 @@
 <div align="center">
 
   <img src="./assets/theo-title.svg" height="64" alt="Theo" />
-
+  <br />
   <img src="https://img.shields.io/badge/Smart%20Contract%20Developer-2f3136?style=for-the-badge" alt="Smart Contract Developer" />
   <img src="https://img.shields.io/badge/Frontend%20Developer-2f3136?style=for-the-badge" alt="Frontend Developer" />
   <img src="https://img.shields.io/badge/Full--stack%20Builder-2f3136?style=for-the-badge" alt="Full-stack Builder" />
