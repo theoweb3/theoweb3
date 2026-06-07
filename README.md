@@ -1,17 +1,17 @@
 <!-- Profile README for theoweb3 -->
 
-<h1 align="center">Hi, I'm Theo 👋</h1>
+<h1 align="center">Hi, I'm Theo</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=19&duration=2200&pause=1000&center=true&vCenter=true&width=760&lines=From+contract+logic+to+product+experience.;Web3+full-stack+developer.+Learning+deeply%2C+building+deliberately.;Next.js+%2B+Solidity+%2B+Go+%2B+Rust" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=19&duration=2200&pause=1000&center=true&vCenter=true&width=760&lines=From+contract+logic+to+product+experience.;Design-minded+Web3+full-stack+developer.;Learning+deeply%2C+building+deliberately." alt="Typing SVG" />
 </p>
 
 ---
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Web3%20Full--stack%20Developer-2f3136?style=for-the-badge" alt="Web3 Full-stack Developer" />
   <img src="https://img.shields.io/badge/Smart%20Contract%20Developer-2f3136?style=for-the-badge" alt="Smart Contract Developer" />
-  <img src="https://img.shields.io/badge/Frontend%20Engineer-2f3136?style=for-the-badge" alt="Frontend Engineer" />
+  <img src="https://img.shields.io/badge/Frontend%20Developer-2f3136?style=for-the-badge" alt="Frontend Developer" />
+  <img src="https://img.shields.io/badge/Full--stack%20Builder-2f3136?style=for-the-badge" alt="Full-stack Builder" />
 </div>
 
 <br />
