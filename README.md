@@ -25,7 +25,14 @@ I am a Web3 full-stack developer focused on translating smart contract ideas int
 - Prototyping from contract behavior to interface flow, so demos are shaped around real use.
 - Turning notes from practice into reusable patterns for future builds.
 
+<img src="./assets/theo-profile-card.svg" width="52%" alt="Theo profile card" />
+
 <br />
+<br />
+
+<img src="./assets/theo-current-card.svg" width="52%" alt="Theo now building card" />
+
+<br clear="right" />
 
 <div align="center">
   <a href="https://blog.csdn.net/wwh1st">
@@ -46,7 +53,7 @@ I am a Web3 full-stack developer focused on translating smart contract ideas int
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=solidity,ts,react,nextjs,vue,go,rust,nodejs,git,github" alt="Core tech stack" />
+    <img src="https://skillicons.dev/icons?i=solidity,ts,react,nextjs,nodejs,git,github" alt="Core tech stack" />
   </a>
 </p>
 
