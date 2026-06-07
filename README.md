@@ -8,6 +8,10 @@
 
 ---
 
+
+<img align="right" src="./assets/theo-pose-01-wave.png" width="38%" alt="Yoona Q-style character waving" />
+
+
 <div align="center">
 
   <img src="./assets/theo-title.svg" height="64" alt="Theo" />
