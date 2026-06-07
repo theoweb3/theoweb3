@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 680 230" width="100%" height="100%">
+  <rect x="2" y="2" width="676" height="226" rx="24" ry="24" fill="#F8FAFC" stroke="#E2E8F0" stroke-width="3" />
+
+  <g transform="translate(36, 32)">
+    <rect width="160" height="38" rx="12" fill="#DBEAFE" />
+    <text x="80" y="24" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="16" font-weight="800" fill="#1E40AF" text-anchor="middle">Direction</text>
+    
+    <text x="4" y="74" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="16" font-weight="700" fill="#1E293B">On-chain Logic</text>
+    <text x="4" y="114" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="16" font-weight="700" fill="#1E293B">Wallet UX</text>
+    <text x="4" y="154" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="16" font-weight="700" fill="#1E293B">Product Flow</text>
+  </g>
+
+  <g transform="translate(240, 32)">
+    <rect width="164" height="38" rx="12" fill="#E0F2FE" />
+    <text x="82" y="24" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="16" font-weight="800" fill="#0369A1" text-anchor="middle">Craft</text>
+    
+    <text x="4" y="74" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="16" font-weight="700" fill="#1E293B">Readable Demos</text>
+    <text x="4" y="114" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="16" font-weight="700" fill="#1E293B">Calm Interfaces</text>
+    <text x="4" y="154" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="16" font-weight="700" fill="#1E293B">Reusable Notes</text>
+  </g>
+
+  <g transform="translate(444, 32)">
+    <rect width="132" height="38" rx="12" fill="#DCFCE7" />
+    <text x="66" y="24" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="16" font-weight="800" fill="#15803D" text-anchor="middle">Stack</text>
+    
+    <text x="4" y="74" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="16" font-weight="700" fill="#1E293B">Solidity</text>
+    <text x="4" y="114" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="16" font-weight="700" fill="#1E293B">TypeScript</text>
+    <text x="4" y="154" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="16" font-weight="700" fill="#1E293B">Next.js</text>
+  </g>
+</svg>

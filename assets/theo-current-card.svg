@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 680 230" width="100%" height="100%">
+  <rect x="2" y="2" width="676" height="226" rx="24" ry="24" fill="#F8FAFC" stroke="#E2E8F0" stroke-width="3" />
+
+  <g transform="translate(36, 30)">
+    <rect width="160" height="38" rx="12" fill="#DBEAFE" />
+    <text x="80" y="24" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="16" font-weight="800" fill="#1E40AF" text-anchor="middle">Now Building</text>
+  </g>
+
+  <g transform="translate(36, 96)">
+    <circle cx="12" cy="-5" r="5" fill="#3B82F6" />
+    <text x="32" y="0" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="16" font-weight="700" fill="#1E293B">Contract-first demos with real user flows</text>
+    
+    <circle cx="12" cy="35" r="5" fill="#2563EB" />
+    <text x="32" y="40" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="16" font-weight="700" fill="#1E293B">Wallet-connected interfaces that feel calm</text>
+    
+    <circle cx="12" cy="75" r="5" fill="#10B981" />
+    <text x="32" y="80" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="16" font-weight="700" fill="#1E293B">Reusable notes for Solidity and Web3 UI patterns</text>
+  </g>
+
+  <g transform="translate(500, 38)">
+    <circle cx="60" cy="60" r="54" fill="#EFF6FF" />
+    <path d="M 38 60 L 52 74 L 82 44" fill="none" stroke="#1D4ED8" stroke-width="7" stroke-linecap="round" stroke-linejoin="round" />
+  </g>
+
+  <g transform="translate(36, 186)">
+    <g transform="translate(0, 0)">
+      <rect width="132" height="30" rx="15" fill="#E0F2FE" />
+      <text x="66" y="20" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="13" font-weight="700" fill="#0369A1" text-anchor="middle">Product-minded</text>
+    </g>
+    
+    <g transform="translate(144, 0)">
+      <rect width="90" height="30" rx="15" fill="#EFF6FF" />
+      <text x="45" y="20" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="13" font-weight="700" fill="#1D4ED8" text-anchor="middle">On-chain</text>
+    </g>
+
+    <g transform="translate(246, 0)">
+      <rect width="136" height="30" rx="15" fill="#DCFCE7" />
+      <text x="68" y="20" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="13" font-weight="700" fill="#15803D" text-anchor="middle">Frontend craft</text>
+    </g>
+  </g>
+</svg>
