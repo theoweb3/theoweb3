@@ -11,7 +11,7 @@
 <div align="center">
 
   <img src="./assets/theo-title.svg" height="64" alt="Theo" />
-
+  <br />
   <img src="https://img.shields.io/badge/Smart%20Contract%20Developer-2f3136?style=for-the-badge" alt="Smart Contract Developer" />
   <img src="https://img.shields.io/badge/Frontend%20Developer-2f3136?style=for-the-badge" alt="Frontend Developer" />
   <img src="https://img.shields.io/badge/Full--stack%20Builder-2f3136?style=for-the-badge" alt="Full-stack Builder" />
@@ -33,6 +33,12 @@ I am a Web3 full-stack developer focused on translating smart contract ideas int
   </a>
   <a href="https://github.com/theoweb3">
     <img src="https://img.shields.io/badge/GitHub-theoweb3-2f3136?style=flat-square&logo=github&logoColor=white" alt="GitHub theoweb3" />
+  </a>
+  <a href="https://x.com/zKennyHarris">
+    <img src="https://img.shields.io/badge/X-zKennyHarris-000000?style=flat-square&logo=x&logoColor=white" alt="X (Twitter)" />
+  </a>
+  <a href="https://t.me/theo_liu">
+    <img src="https://img.shields.io/badge/Telegram-theo__liu-26A5E4?style=flat-square&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
 </div>
 
