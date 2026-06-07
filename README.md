@@ -41,12 +41,17 @@ I am a Web3 full-stack developer focused on translating smart contract ideas int
   </a>
 </p>
 
-## GitHub Activity
+## GitHub Stats
 
-<p align="left">
-  <img height="158" src="https://github-readme-stats.vercel.app/api?username=theoweb3&show_icons=true&hide_border=true&bg_color=FFF8FC&title_color=D36B9F&icon_color=E99ABF&text_color=635B66" alt="Theo's GitHub stats" />
-  <img height="158" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theoweb3&layout=compact&hide_border=true&bg_color=FFF8FC&title_color=D36B9F&text_color=635B66" alt="Theo's top languages" />
-</p>
+<!-- GitHub Readme Stats service is temporarily paused. Using alternative: -->
+
+<a href="https://github.com/theoweb3">
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=theoweb3&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Theo's GitHub stats" />
+</a>
+
+<a href="https://github.com/theoweb3">
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=theoweb3&layout=compact&theme=radical&hide_border=true" alt="Theo's top languages" />
+</a>
 
 ---
 
