@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 540 110" width="100%" height="100%">
+  <defs>
+    <clipPath id="stage-clip">
+      <rect width="540" height="110" rx="20" ry="20" />
+    </clipPath>
+  </defs>
+
+  <rect width="540" height="110" rx="20" ry="20" fill="#F4F8FA" />
+
+  <text x="32" y="76" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="52" font-weight="900" fill="#1A1E26" letter-spacing="-1">Theo</text>
+
+  <path d="M 28 92 Q 130 96 238 91" fill="none" stroke="#3B82F6" stroke-width="4.5" stroke-linecap="round" />
+
+  <g transform="translate(254, 30)">
+    <rect width="98" height="42" rx="21" fill="#DBEAFE" />
+    <text x="49" y="26" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="16" font-weight="700" fill="#1E40AF" text-anchor="middle">Web3</text>
+  </g>
+
+  <g transform="translate(366, 30)">
+    <rect width="142" height="42" rx="21" fill="#E2E8F0" />
+    <text x="71" y="26" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="16" font-weight="700" fill="#334155" text-anchor="middle">Builder</text>
+  </g>
+</svg>

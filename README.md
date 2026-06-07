@@ -9,6 +9,9 @@
 ---
 
 <div align="center">
+
+  <img src="./assets/theo-title.svg" height="64" alt="Theo" />
+
   <img src="https://img.shields.io/badge/Smart%20Contract%20Developer-2f3136?style=for-the-badge" alt="Smart Contract Developer" />
   <img src="https://img.shields.io/badge/Frontend%20Developer-2f3136?style=for-the-badge" alt="Frontend Developer" />
   <img src="https://img.shields.io/badge/Full--stack%20Builder-2f3136?style=for-the-badge" alt="Full-stack Builder" />
@@ -18,9 +21,9 @@
 
 I am a Web3 full-stack developer focused on translating smart contract ideas into clear product experiences. My work sits between Solidity, frontend engineering, and the interaction details that make an interface feel trustworthy.
 
-- Working across `Solidity`, `TypeScript`, `Next.js`, `Vue`, `Go`, `Rust`, and `Node.js`.
+- Working across `Solidity`, `TypeScript`, `React`, `Next.js`, `Ethers`, `Wagmi`, and `Hardhat`.
 - Prototyping from contract behavior to interface flow, so demos are shaped around real use.
-- Building full-stack applications with modern web technologies.
+- Turning notes from practice into reusable patterns for future builds.
 
 <br />
 
